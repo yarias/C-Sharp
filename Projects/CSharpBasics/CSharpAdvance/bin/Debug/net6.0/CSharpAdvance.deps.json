@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharpAdvance/1.0.0": {
+        "runtime": {
+          "CSharpAdvance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpAdvance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

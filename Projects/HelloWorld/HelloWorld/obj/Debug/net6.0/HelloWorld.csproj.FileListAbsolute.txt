@@ -1,0 +1,15 @@
+/Users/yermi/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/yermi/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/yermi/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/yermi/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/yermi/Projects/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/yermi/Projects/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

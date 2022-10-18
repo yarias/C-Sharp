@@ -1,0 +1,5 @@
+/Users/yermi/Projects/CSharpBasics/CSharpBasics/obj/Debug/net6.0/CSharpBasics.csproj.AssemblyReference.cache
+/Users/yermi/Projects/CSharpBasics/CSharpBasics/obj/Debug/net6.0/CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yermi/Projects/CSharpBasics/CSharpBasics/obj/Debug/net6.0/CSharpBasics.AssemblyInfoInputs.cache
+/Users/yermi/Projects/CSharpBasics/CSharpBasics/obj/Debug/net6.0/CSharpBasics.AssemblyInfo.cs
+/Users/yermi/Projects/CSharpBasics/CSharpBasics/obj/Debug/net6.0/CSharpBasics.csproj.CoreCompileInputs.cache

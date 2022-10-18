@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{783C804D-BFFD-4F2A-B96C-039806A4A891}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharpBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharpAdvance FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CSharpIntermidiate PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

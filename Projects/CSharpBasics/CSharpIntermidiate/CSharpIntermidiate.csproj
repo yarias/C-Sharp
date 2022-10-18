@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="class_examples\" />
+    <None Remove="inheritance_examples\" />
+    <None Remove="polymorphism_examples\" />
+    <None Remove="interface_examples\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="class_examples\" />
+    <Folder Include="inheritance_examples\" />
+    <Folder Include="polymorphism_examples\" />
+    <Folder Include="interface_examples\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AmazonLib\AmazonLib.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+/Users/yermi/Projects/CSharpBasics/AmazonLib/bin/Debug/net6.0/AmazonLib.deps.json
+/Users/yermi/Projects/CSharpBasics/AmazonLib/bin/Debug/net6.0/AmazonLib.dll
+/Users/yermi/Projects/CSharpBasics/AmazonLib/bin/Debug/net6.0/AmazonLib.pdb
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.csproj.AssemblyReference.cache
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.AssemblyInfoInputs.cache
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.AssemblyInfo.cs
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.csproj.CoreCompileInputs.cache
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.dll
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/refint/AmazonLib.dll
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/AmazonLib.pdb
+/Users/yermi/Projects/CSharpBasics/AmazonLib/obj/Debug/net6.0/ref/AmazonLib.dll
